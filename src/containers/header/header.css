@@ -1,0 +1,115 @@
+.gpt3__header {
+  display: flex;
+  flex-direction: row;
+  padding-top: 0;
+}
+
+.gpt3__header-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+
+  margin-right: 5rem;
+}
+
+.gpt3__header-content h1 {
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 62px;
+  letter-spacing: -2.48px;
+  line-height: 75px;
+}
+
+.gpt3__header-content p {
+  font-family: var(--font-family);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+
+  color: var(--color-text);
+  margin-top: 1.5rem;
+}
+
+.gpt3__header-content__input {
+  display: flex;
+  width: 100%;
+  margin: 2.5rem 0 1rem;
+}
+
+.gpt3__header-content__input input {
+  flex: 2;
+  width: 100%;
+  border-radius: 5px 0 0 5px;
+  background: var(--color-footer);
+  min-height: 50px;
+  outline: none;
+  border: 2px solid var(--color-footer);
+  padding: 0 1rem;
+
+  color: #fff;
+  font-family: var(--font-family);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+  /* padding: 1.5rem auto 1.5rem 2rem; */
+}
+
+.gpt3__header-content__input button {
+  flex: 0.6;
+  width: 100%;
+  min-height: 50px;
+  background-color: #ff4820;
+  border-radius: 0 5px 5px 0;
+  outline: none;
+  border: none;
+
+  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 20px;
+  line-height: normal;
+  cursor: pointer;
+  padding: 0 1rem;
+}
+
+.gpt3__header-content__people {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-top: 1rem;
+}
+
+.gpt3__header-content__people img {
+  width: 182px;
+  height: 38px;
+}
+
+.gpt3__header-content__people p {
+  margin-left: 1rem;
+  margin-top: 0;
+
+  color: white;
+  font-family: var(--font-family);
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 37.611px;
+  text-align: center;
+}
+
+.gpt3__header-image {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gpt3__header-image img {
+  width: 667.41px;
+  height: 701.59px;
+
+  margin-right: 24.68px;
+}
