@@ -1,12 +1,8 @@
-import React from 'react'
-import './feature.css';
+import React from "react";
+import "./feature.css";
 
 const Feature = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return (<div>feature</div>);
+};
 
-export default Feature
+export default Feature;
