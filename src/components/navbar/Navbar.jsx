@@ -7,10 +7,10 @@ import "./navbar.css";
 const Menu = () => (
   <>
     <p>
-      <a href="#Home">Home</a>
+      <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#GPT">What Is GPT?</a>
+      <a href="#wgpt3">What Is GPT?</a>
     </p>
     <p>
       <a href="#OpenAI">OpenAI</a>
