@@ -13,15 +13,17 @@ import {
 const App = () => {
   return (
     <div className="App ">
-      <div className="gradient__bg">
+      <div className="gradient__bg-lefttop">
         <Navbar />
         <Header />
+        <Brand />
       </div>
-      <Brand />
-      <WhatGPT3 />
-      <Features />
-      <Possibility />
-      <CTA />
+      <div className="gradient__bg-sideways">
+        <WhatGPT3 />
+        <Features />
+        <Possibility />
+        <CTA />
+      </div>
       <Blog />
       <Footer />
     </div>
