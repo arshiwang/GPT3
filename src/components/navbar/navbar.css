@@ -68,6 +68,7 @@
   border: 0;
   outline: none;
   color: white;
+  cursor: pointer;
 }
 
 .gpt3__navbar-menu {
