@@ -3,6 +3,7 @@
 <p id="description">I made the project 'Lexi AI' as a website to showcase my frontend skills. </br>
 <p>
 Lexi AI is a dynamic web application designed to showcase advanced frontend skills. The project features a modern and intuitive user interface, demonstrating proficiency in building responsive and interactive web experiences. The site highlights various frontend technologies and best practices, making it a perfect example of cutting-edge design and development.</p>
+<p>Check out the webiste here:  https://lexiai.netlify.app/</p>
 </br>
 <h2>Project Screenshots:</h2>
 </br>
