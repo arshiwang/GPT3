@@ -7,17 +7,17 @@ Lexi AI is a dynamic web application designed to showcase advanced frontend skil
 <h2>Project Screenshots:</h2>
 </br>
 <p>
-<img src="https://github.com/user-attachments/assets/82249a2b-28a8-4585-b850-a60d19f602f0" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/82249a2b-28a8-4585-b850-a60d19f602f0" alt="project-screenshot" width="430" height="210/">
 
-<img src="https://github.com/user-attachments/assets/7e5e58cb-3853-41c1-9872-a480865f20fd" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/7e5e58cb-3853-41c1-9872-a480865f20fd" alt="project-screenshot" width="430" height="210/">
 
-<img src="https://github.com/user-attachments/assets/3dfd2362-e036-4a7e-aa28-f6a225fe4085" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/3dfd2362-e036-4a7e-aa28-f6a225fe4085" alt="project-screenshot" width="430" height="210/">
 
-<img src="https://github.com/user-attachments/assets/52adf1b9-6be6-459c-8df2-1ea8261a6942" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/52adf1b9-6be6-459c-8df2-1ea8261a6942" alt="project-screenshot" width="430" height="210/">
 
-<img src="https://github.com/user-attachments/assets/e86837e0-80a8-49c0-9b2f-6ea4018c5507" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/e86837e0-80a8-49c0-9b2f-6ea4018c5507" alt="project-screenshot" width="430" height="210/">
 
-<img src="https://github.com/user-attachments/assets/63e8ab34-71f0-41cc-bc7f-6d2d69373b24" alt="project-screenshot" width="460" height="210/">
+<img src="https://github.com/user-attachments/assets/63e8ab34-71f0-41cc-bc7f-6d2d69373b24" alt="project-screenshot" width="430" height="210/">
 
 </p>
   
