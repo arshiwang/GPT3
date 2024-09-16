@@ -1,75 +1,57 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Lexi AI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">I made the project 'Lexi AI' as a website to showcase my frontend skills. </br>
+<p>
+Lexi AI is a dynamic web application designed to showcase advanced frontend skills. The project features a modern and intuitive user interface, demonstrating proficiency in building responsive and interactive web experiences. The site highlights various frontend technologies and best practices, making it a perfect example of cutting-edge design and development.</p>
+</br>
+<h2>Project Screenshots:</h2>
+</br>
+<p>
+<img src="https://github.com/user-attachments/assets/82249a2b-28a8-4585-b850-a60d19f602f0" alt="project-screenshot" width="460" height="210/">
 
-## Available Scripts
+<img src="https://github.com/user-attachments/assets/7e5e58cb-3853-41c1-9872-a480865f20fd" alt="project-screenshot" width="460" height="210/">
 
-In the project directory, you can run:
+<img src="https://github.com/user-attachments/assets/3dfd2362-e036-4a7e-aa28-f6a225fe4085" alt="project-screenshot" width="460" height="210/">
 
-### `npm start`
+<img src="https://github.com/user-attachments/assets/52adf1b9-6be6-459c-8df2-1ea8261a6942" alt="project-screenshot" width="460" height="210/">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://github.com/user-attachments/assets/e86837e0-80a8-49c0-9b2f-6ea4018c5507" alt="project-screenshot" width="460" height="210/">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://github.com/user-attachments/assets/63e8ab34-71f0-41cc-bc7f-6d2d69373b24" alt="project-screenshot" width="460" height="210/">
 
-### `npm test`
+</p>
+  
+</br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>🛠️ Installation Steps:</h2>
+</br>
+<p>1. Make sure you have <a href="https://nodejs.org/en/download/">Node.js</a> and <a href="https://www.npmjs.com/get-npm">npm</a> installed on your machine.</p>
 
-### `npm run build`
+<p>2. Fork the repository to your GitHub account and clone it to your local machine using the following command:</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>3. Navigate to the app's source folder in your terminal:</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>4. Install the project's dependencies by running the following command:</p>
 
-### `npm run eject`
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p>5. Start the development server by running:</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p>6. Your React app will now be running locally! Open your browser and go to <a href="http://localhost:3000">http://localhost:3000</a> to see the app in action.</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  
+ </br>
+<h2>💻 Built with</h2>
+</br>
+Technologies used in the project:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# GPT3 | React
-GPT3 website using React, CSS (&amp; BEM)
->>>>>>> origin/main
+*   React
+*   CSS
+*   JS
