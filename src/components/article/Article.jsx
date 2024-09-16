@@ -10,7 +10,7 @@ const Article = ({ imageUrl, date, title, size, height }) => {
   return (
     <div className="gpt3__blog-container__article">
       <div className="gpt3__blog-container__article-image">
-        <img src={imageUrl} alt="blog-image" />
+        <img src={imageUrl}/>
       </div>
       <div className="gpt3__blog-container__article-content">
         <div>
